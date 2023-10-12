@@ -1,10 +1,4 @@
 # Spurrinkle
-Spurrinkle팀 협업소
 
-npm i bootstrap
-
-npm i react-router-dom
-
-npm i axios
-# Spurrinkle-Backend
-# Backend
+### 프로젝트 소개 
+[FrontEnd](https://github.com/Spurrinkle-DAMOIM/Backend.git)
